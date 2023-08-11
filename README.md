@@ -125,8 +125,8 @@ Here are several TODOs that are going to be implemented later:
 
 ### Ihor Oleksiienko
 
-* [Github](https://github.com/torys877)
-* [Linkedin](https://www.linkedin.com/in/igor-alekseyenko/)
+* [Github](https://github.com/Ammy076)
+* [Linkedin](https://www.linkedin.com/in/aman-bansod-11b5511b6/)
 
 ## License
 
